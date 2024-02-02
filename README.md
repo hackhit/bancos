@@ -2,7 +2,7 @@
 
 ## Descripción
 
-El archivo `bancos_venezuela_2024.json` proporciona una recopilación exhaustiva de los bancos operativos en Venezuela para el año 2024, junto con sus respectivos códigos de identificación. Este recurso es esencial para profesionales de la industria bancaria, desarrolladores de software y analistas financieros que buscan acceder y utilizar datos actualizados sobre la infraestructura bancaria del país.
+El archivo `bancos.json` proporciona una recopilación exhaustiva de los bancos operativos en Venezuela para el año 2024, junto con sus respectivos códigos de identificación. Este recurso es esencial para profesionales de la industria bancaria, desarrolladores de software y analistas financieros que buscan acceder y utilizar datos actualizados sobre la infraestructura bancaria del país.
 
 ## Estructura del Archivo
 
@@ -24,5 +24,5 @@ Los códigos de identificación de los bancos desempeñan un papel crucial en la
 
 ## Acceso al Archivo
 
-El archivo `bancos_venezuela_2024.json` está disponible públicamente para su descarga y uso por parte de cualquier persona interesada en acceder a datos actualizados sobre los bancos de Venezuela en el año 2024. Puede ser utilizado libremente en aplicaciones comerciales, proyectos de código abierto y fines educativos, siempre que se respeten los términos de uso y atribución adecuados.
+El archivo `bancos.json` está disponible públicamente para su descarga y uso por parte de cualquier persona interesada en acceder a datos actualizados sobre los bancos de Venezuela en el año 2024. Puede ser utilizado libremente en aplicaciones comerciales, proyectos de código abierto y fines educativos, siempre que se respeten los términos de uso y atribución adecuados.
 
