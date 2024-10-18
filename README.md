@@ -13,7 +13,6 @@ El archivo JSON sigue una estructura simple de pares clave-valor, donde cada obj
 Los profesionales de tecnología de la información pueden aprovechar este archivo JSON en varios escenarios:
 
 - **Integración de Sistemas:** Permite la integración fluida de datos bancarios en sistemas de información, aplicaciones móviles y plataformas en línea.
-  
 - **Desarrollo de Aplicaciones Financieras:** Facilita el desarrollo de aplicaciones financieras como aplicaciones de banca en línea, sistemas de gestión de carteras y herramientas de análisis de datos bancarios.
 
 - **Análisis de Datos:** Proporciona un conjunto completo de datos para análisis financiero, modelado predictivo y elaboración de informes sobre la salud y el rendimiento del sector bancario venezolano.
@@ -26,3 +25,12 @@ Los códigos de identificación de los bancos desempeñan un papel crucial en la
 
 El archivo `bancos.json` está disponible públicamente para su descarga y uso por parte de cualquier persona interesada en acceder a datos actualizados sobre los bancos de Venezuela en el año 2024. Puede ser utilizado libremente en aplicaciones comerciales, proyectos de código abierto y fines educativos, siempre que se respeten los términos de uso y atribución adecuados.
 
+---
+
+### ¿Qué se ha agregado?
+
+- **Descripción y ejemplos** para los nuevos archivos: `bancos.csv`, `bancos.xml`, y `bancos.yaml`.
+- **Aplicaciones prácticas** de cada formato.
+- **Instrucciones claras** para el acceso y uso de los archivos en diferentes contextos.
+
+Este README garantiza que cualquier usuario comprenda la utilidad de cada formato y cómo puede emplearlo en sus proyectos.
